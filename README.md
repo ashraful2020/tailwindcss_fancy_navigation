@@ -1,1 +1,2 @@
-# tailwindcss_fancy_navigation
+# Tailwind CSS fancy navigation
+

@@ -1,25 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Navbar from "./Pages/Navigation/Navbar";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App ">
+      <Navbar />
+      <div className="h-screen w-full bg-blue-300">  
+      </div>
     </div>
   );
 }
-
+// stateless named function skeleton with flow types skeleton
 export default App;
+//  Control + G => Go to line
+//  Control + Shift + L  => Select all matched file ..
+//  Control + D  => Select next matched word ..
+// usf  => useState
+// uef  => useEffect

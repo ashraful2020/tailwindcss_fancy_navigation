@@ -4,7 +4,7 @@ export const links = [
     submenu: true,
     subLinks: [
       {
-        Head: "TopWear",
+        Head: "Top Wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -22,7 +22,7 @@ export const links = [
         ],
       },
       {
-        Head: "TravelWear",
+        Head: "Travel Wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -31,7 +31,7 @@ export const links = [
         ],
       },
       {
-        Head: "Sleepwear",
+        Head: "Sleep wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -40,7 +40,7 @@ export const links = [
         ],
       },
       {
-        Head: "BottomWear",
+        Head: "Bottom Wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -64,7 +64,7 @@ export const links = [
     submenu: true,
     subLinks: [
       {
-        Head: "TopWear",
+        Head: "Top Wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -82,7 +82,7 @@ export const links = [
         ],
       },
       {
-        Head: "TravelWear",
+        Head: "Travel Wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -91,7 +91,7 @@ export const links = [
         ],
       },
       {
-        Head: "Sleepwear",
+        Head: "Sleep wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -100,7 +100,7 @@ export const links = [
         ],
       },
       {
-        Head: "BottomWear",
+        Head: "Bottom Wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -124,7 +124,7 @@ export const links = [
     submenu: true,
     subLinks: [
       {
-        Head: "TopWear",
+        Head: "Top Wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -142,7 +142,7 @@ export const links = [
         ],
       },
       {
-        Head: "TravelWear",
+        Head: "Travel Wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -151,7 +151,7 @@ export const links = [
         ],
       },
       {
-        Head: "Sleepwear",
+        Head: "Sleep wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -160,7 +160,7 @@ export const links = [
         ],
       },
       {
-        Head: "BottomWear",
+        Head: "Bottom Wear",
         subLink: [
           { name: "T-shirt", link: "/t-shirt" },
           { name: "Casual-shirt", link: "/casual-shirt" },
@@ -182,3 +182,4 @@ export const links = [
   { name: "About" },
   { name: "Contact US" },
 ];
+ 

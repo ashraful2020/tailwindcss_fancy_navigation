@@ -20,9 +20,9 @@ const Navbar = () => {
             ></ion-icon>
           </div>
         </div>
-        <ul className="uppercase md:flex hidden items-center justify-around gap-8">
+        <ul className=" hidden items-center justify-around gap-8 md:flex">
           <li>
-            <b className="inline-block py-7 px-3">Home</b>
+            <b className="inline-block py-7 px-3 uppercase">Home</b>
           </li>
           <NavLink />
         </ul>
@@ -32,12 +32,12 @@ const Navbar = () => {
 
         {/*  Mobile Navigation bar  */}
         <ul
-          className={`absolute h-fit w-full bg-red-100 py-12 pl-4 uppercase duration-500 md:hidden ${
+          className={`absolute h-fit w-full bg-green-50 py-12 pl-4 duration-500 md:hidden ${
             open ? "left-0" : "left-[-100%]"
           }`}
         >
-          <li className=" text-left">
-            <b className="inline-block py-7 px-3">Home </b>
+          <li className="text-left">
+            <b className="inline-block py-7 px-3 uppercase">Home </b>
           </li>
           <div>
             <NavLink />

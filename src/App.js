@@ -1,11 +1,11 @@
 import "./App.css";
 import Navbar from "./Pages/Navigation/Navbar";
-
 function App() {
   return (
     <div className="App ">
       <Navbar />
-      <div className="h-screen w-full bg-blue-300">  
+      <div className="h-screen w-full bg-blue-300 pt-32">
+        
       </div>
     </div>
   );
@@ -17,3 +17,4 @@ export default App;
 //  Control + D  => Select next matched word ..
 // usf  => useState
 // uef  => useEffect
+ 
